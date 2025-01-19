@@ -1,0 +1,16 @@
+{
+    "description": "Project Description",
+    "domain": ".is-cool.dev",
+    "subdomain": "root",
+
+    "owner": {
+        "repo": "https://github.com/Blitzar7/open-domains",
+        "email": "x@oyoo.us"
+    },
+
+    "record": {
+        "A": ["31.186.83.254"]
+    },
+
+    "proxied": false
+}
